@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\P5_3_1204013\P5_3_1204013\bin\Debug\P5_3_1204013.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\obj\Debug\P5_3_1204013.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\obj\Debug\P5_3_1204013.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\obj\Debug\P5_3_1204013.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\obj\Debug\P5_3_1204013.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\bin\Debug\P5_3_1204013.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\bin\Debug\P5_3_1204013.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\obj\Debug\P5_3_1204013.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P5_3_1204013\P5_3_1204013\obj\Debug\P5_3_1204013.pdb
